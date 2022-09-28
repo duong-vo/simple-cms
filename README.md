@@ -1,3 +1,3 @@
 # README
 
-Just a simple cms used for learning Ruby
+Just a simple Content Management System used for learning Ruby
